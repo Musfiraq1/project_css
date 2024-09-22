@@ -1,0 +1,108 @@
+* {
+  color: azure;
+  font-family: Arial, Verdana, sans-serif
+}
+
+.first {
+  color: black;
+  border: 1px solid black;
+  background-color: gray;
+}
+
+.second {
+  background-color: rgb(0, 136, 221);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.third {
+  background-color: rgba(0, 151, 226, 0.830);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.fourth {
+  background-color: rgba(0, 161, 230, 0.840);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.fifth {
+  background-color: rgba(48, 171, 233, 0.850);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.sixth {
+  background-color: rgba(84, 181, 237, 0.860);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.seventh {
+  background-color: rgba(114, 194, 240, 0.870);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.eight {
+  background-color: rgba(140, 201, 242, 0.890);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.nineth {
+  background-color: rgb(0, 187, 136);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.tenth {
+  background-color: rgb(245, 176, 204);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.eleventh {
+  background-color: rgb(245, 140, 178);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.twelveth {
+  background-color: rgb(244, 123, 166);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.thirteen {
+  background-color: rgb(243, 106, 152);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.fourteen {
+  background-color: rgb(244, 90, 139);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.fifteen {
+  background-color: rgb(238, 62, 128);
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
