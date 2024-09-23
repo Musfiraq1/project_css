@@ -1,4 +1,10 @@
-.index{
-  color: rgb(19, 13, 13);
-  
+*{
+  color: rgb(243, 235, 235);
+
+}
+body {
+  background-image: url('pictures/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100dvh;
 }
