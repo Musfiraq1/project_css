@@ -1,10 +1,8 @@
-h1 {
+* {
   color: white;
-}
+  color: white;
+  }
 
-h1~a {
-  color: white;
-}
 
 .body {
   background-image: url('pictures/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg');
