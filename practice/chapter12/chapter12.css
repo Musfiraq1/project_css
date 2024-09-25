@@ -53,6 +53,46 @@ h2 {
 .indent {
   text-indent: 50px;
 }
+
 .kchbhi {
   text-shadow: 1px 1px 2px;
 }
+
+p.intro::first-letter {
+  font-size: 90px;
+}
+
+p.intro::first-line {
+  font-weight: bold;
+}
+
+a.p:link {
+  color: deeppink
+}
+
+a:visited {
+  color: rgb(0, 0, 0);
+}
+
+a:hover {
+  color: rgb(20, 43, 255);
+}
+
+a:active {
+  color: darkcyan;
+}
+input{
+  background-color: black;
+  color: white;
+}
+input.submit:hover{
+  background-color: blue;
+}
+input.submit:active{
+  background-color: brown;
+}
+input.submit:focus{
+  color: red;
+}
+
+
