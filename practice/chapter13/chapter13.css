@@ -1,0 +1,97 @@
+.div1 {
+  width: 500px;
+  height: 500px;
+  background-color: grey;
+}
+
+.div2 {
+  width: 400px;
+  height: 400px;
+  background-color: darkmagenta;
+}
+
+.image1 {
+  margin: 10px;
+}
+
+.piano {
+  vertical-align: top;
+  display: inline;
+
+}
+
+.paragraph {
+  overflow: scroll;
+  background-color: brown;
+  height: 100px;
+  width: 100px;
+}
+
+.border {
+  text-align: left;
+  border-width: 4px;
+  border-color: black;
+  border-style: double;
+
+}
+
+.border2 {
+  border-width: thick;
+  border-style: dashed;
+  border-color: blue;
+}
+
+.border3 {
+  border-width: 2px 4px 8px 10px;
+  border-style: solid;
+  padding: 20px;
+
+}
+
+.margin {
+  text-align: left;
+  border-style: solid;
+  border-color: blue;
+  width: 100px;
+}
+
+.margin2 {
+  margin-left: 50px;
+  text-align: center;
+  border-color: blue;
+  border-style: solid;
+  width: 100px;
+}
+
+.ul {
+  display: inline;
+  margin-right: 10px;
+}
+
+.li {
+  visibility: hidden;
+}
+
+.box {
+  border: 1px;
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 5px 5px 5px 5px #777777;
+  margin: auto
+}
+
+.radius {
+  border: 5px solid black;
+  border-radius: 10px;
+  height: 20px;
+  width: 100px;
+}
+
+.top-radius {
+  border-top-right-radius: 80px;
+  border: 5px solid black;
+  width: 100px;
+  height: 100px;
+}

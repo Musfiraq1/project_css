@@ -1,0 +1,54 @@
+body {
+  font-size: 80%;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 0.15em;
+  background-color: #efefef;
+
+}
+
+.margin {
+  margin: 0%;
+
+}
+
+.border {
+  border: 4px double;
+  height: 550px;
+  padding: 30px;
+}
+
+.border2 {
+  border-top: 2px solid black;
+  border-bottom: 2px solid grey;
+  padding: 20px;
+  margin: 20px;
+  width: 700px;
+
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  padding-left: 50px;
+  padding-right: 20px;
+
+}
+
+.home {
+  color: red;
+}
+
+img {
+  width: 250px;
+  height: 150px;
+}
+
+.spacing {
+  font-size: large;
+
+}
+
+
+  a:hover{
+color: red;
+  }
