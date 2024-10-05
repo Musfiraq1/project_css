@@ -1,0 +1,115 @@
+.ol {
+  list-style-type: lower-roman;
+}
+
+.image {
+  list-style-image: url(../../pictures/download\ \(3\).jpeg);
+}
+
+.position {
+  list-style-position: inside;
+}
+
+.style {
+  list-style: inside circle;
+}
+
+body {
+  font-family: Arial, Verdana, sans-serif;
+  color: #111111;
+}
+
+table {
+  width: 600px;
+}
+
+.border {
+  border-bottom: 2px solid grey;
+  border-top: 2px solid black;
+}
+
+.text-align {
+  text-align: right;
+}
+
+.color {
+  background-color: #efefef;
+}
+
+.border2 {
+  border: solid #0088dd;
+  width: 10px;
+  height: 150px;
+  text-align: center;
+}
+
+.one {
+  empty-cells: hide;
+}
+
+.two {
+  empty-cells: show;
+}
+
+.input {
+  font-size: 120%;
+  color: #5a5854;
+  background-color: #f2f2f2;
+  border: 1px solid #bdbdbd;
+  border-radius: 5px;
+  padding: 5px 5px 5px 30px;
+  background-repeat: no-repeat;
+  background-position: 8px 9px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.input.email {
+  background-image: url("../../pictures/download\ \(1\).png");
+}
+
+
+.submit {
+  background-color: #0088dd;
+  text-shadow: 2px;
+}
+
+input:hover {
+  color: red;
+}
+
+.legend {
+  background-color: #8b3e3e;
+  border: 1px solid #dcdcdc;
+  border-radius: 10px;
+}
+
+.fieldset {
+  width: 360px;
+  height: 150px;
+}
+
+.backgroundcolor{
+  background-color: brown;
+  margin-left: 300px;
+}
+
+.table {
+  border: 2px solid #000000;
+  background-color: #0088dd;
+  padding: 50px;
+  height: 110px;
+  text-align: center;
+}
+.div{
+  
+  margin: 10px;
+  padding-bottom: 1px;
+  width: 250px;
+}
+.submit1{
+   text-align:right;  
+}
+.corsor{
+  cursor: cell;
+}
