@@ -1,0 +1,167 @@
+body {
+  text-align: center;
+  color: white;
+}
+
+.color {
+  color: black;
+}
+
+.div {
+  background-color: rgb(224, 13, 119);
+  height: 100px;
+  width: 100%;
+
+}
+
+.div2 {
+  float: left;
+  background-color: rgb(224, 13, 119);
+  height: 100px;
+  width: 49%;
+  margin: 10px 5px 10px 8px;
+}
+
+.div3 {
+  float: right;
+  background-color: rgb(224, 13, 119);
+  height: 100px;
+  width: 49%;
+  margin: 10px 5px 10px 8px;
+}
+
+.div4 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 5px;
+  background-color: rgb(224, 13, 119);
+  width: 33%;
+}
+
+.div5 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 8px;
+  background-color: rgb(224, 13, 119);
+  width: 32%;
+}
+
+.div6 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 8px;
+  background-color: rgb(224, 13, 119);
+  width: 32%;
+}
+
+.div7 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 8px;
+  background-color: rgb(224, 13, 119);
+  width: 24%;
+}
+
+.div8 {
+  float: left;
+  height: 100px;
+  margin: 9px 5px 10px 16px;
+  background-color: rgb(224, 13, 119);
+  width: 15%;
+}
+
+.div9 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 5px;
+  background-color: rgb(224, 13, 119);
+  width: 33%;
+}
+
+.div10 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 5px;
+  background-color: rgb(224, 13, 119);
+  width: 65%;
+}
+
+.div11 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 5px;
+  background-color: rgb(224, 13, 119);
+  width: 24%;
+}
+
+.div12 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 10px;
+  background-color: rgb(224, 13, 119);
+  width: 73%;
+}
+
+.div13 {
+  float: left;
+  background-color: rgb(224, 13, 119);
+  height: 100px;
+  width: 49%;
+  margin: 10px 5px 10px 8px;
+}
+
+.div14 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 8px;
+  background-color: rgb(224, 13, 119);
+  width: 24%;
+}
+
+.div15 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 5px;
+  background-color: rgb(224, 13, 119);
+  width: 33%;
+}
+
+.div16 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 5px;
+  background-color: rgb(224, 13, 119);
+  width: 15%;
+}
+
+.div17 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 5px;
+  background-color: rgb(224, 13, 119);
+  width: 28%;
+}
+
+.div18 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 5px;
+  background-color: rgb(224, 13, 119);
+  width: 20%;
+}
+
+.div19 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 8px;
+  background-color: rgb(224, 13, 119);
+  width: 24%;
+}
+
+.div20 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 10px;
+  background-color: rgb(224, 13, 119);
+  width: 15%;
+}
