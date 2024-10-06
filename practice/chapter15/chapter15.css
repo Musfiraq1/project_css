@@ -1,6 +1,7 @@
 body {
   text-align: center;
   color: white;
+
 }
 
 .color {
@@ -164,4 +165,43 @@ body {
   margin: 10px 5px 10px 10px;
   background-color: rgb(224, 13, 119);
   width: 15%;
+}
+
+.div21 {
+  background-color: rgb(224, 13, 119);
+  height: 100px;
+  width: 100%;
+  margin: 10px 5px 10px 5px;
+
+}
+
+.div22 {
+  background-color: rgb(224, 13, 119);
+  height: 40px;
+  width: 100%;
+  margin: 10px 5px 10px 5px;
+
+}
+
+.div23 {
+  background-color: rgb(224, 13, 119);
+  height: 120px;
+  width: 100%;
+  margin: 10px 5px 10px 5px;
+}
+
+.div24 {
+  float: left;
+  height: 100px;
+  margin: 10px 5px 10px 8px;
+  background-color: rgb(224, 13, 119);
+  width: 32%;
+}
+
+.div25 {
+  clear: left;
+  background-color: rgb(224, 13, 119);
+  margin: 10px 5px 10px 5px;
+  height: 40px;
+  width: 100%;
 }
