@@ -67,21 +67,53 @@
   padding: 10px;
   border-radius: 5px;
 }
-.img2{
+
+.img2 {
   width: 100px;
 }
-.pictures{
+
+.pictures {
   display: flex;
   justify-content: center;
   gap: 50px;
-  margin-top: 70px;
-}
-.hr{
   margin-top: 100px;
+
 }
-.div3{
+
+.div3 {
   display: flex;
   justify-content: center;
   gap: 100px;
   background-color: #FAFAFA;
+  /* margin-top: 100px; */
+}
+
+.padding {
+  padding: 50px;
+  justify-content: center;
+  display: flex;
+}
+
+.heading {
+  color: #193E75;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: #871E27;
+  color: #FFFFFF;
+}
+
+.stayintouch {
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.sendamessage {
+  margin-left: 120px;
+}
+
+.email {
+  margin-left: 100px;
 }
